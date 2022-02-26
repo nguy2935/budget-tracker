@@ -34,6 +34,6 @@ function saveRecord(record) {
     const budgetObjectStore = transaction.objectStore("new_transaction");
 
     budgetObjectStore.add(record);
-}
+};
 // the ability to enter expenses offline
 // offline entries should be added to the tracker when application is brought back online.
