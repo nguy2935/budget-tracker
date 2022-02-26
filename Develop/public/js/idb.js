@@ -25,7 +25,7 @@ request.onsuccess = function(event) {
 request.onerror = function(event) {
     // log error
     console.log(event.target.errorCode);
-}
+};
 
 
 // the ability to enter deposits offline
