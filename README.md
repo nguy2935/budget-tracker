@@ -14,7 +14,7 @@
 * You can view the application [here](https://sheltered-river-58439.herokuapp.com/)
 
 ## Screenshot
-![Screenshot of App](budget-tracker\budget-tracker-screenshot.png)
+![Screenshot of App](budget-tracker-screenshot.png)
 
 ## User Story
 * AS AN avid traveler
