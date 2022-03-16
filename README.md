@@ -8,7 +8,7 @@
 * [Accpetance Criteria](#acceptance-criteria)
 
 ## Description
-* This application allows users to track their money information with features of offline functionality
+* This application allows users to track their money information without internet. User adds or subtract funds and a graph will show overtime.
 
 ## Deployed Application
 * You can view the application [here](https://sheltered-river-58439.herokuapp.com/)
