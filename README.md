@@ -11,7 +11,7 @@
 * This application allows users to track their money information with features of offline functionality
 
 ## Deployed Application
-* 
+* You can view the application [here](https://sheltered-river-58439.herokuapp.com/)
 
 ## Screenshot
 
